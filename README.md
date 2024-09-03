@@ -24,13 +24,15 @@ Model Evaluation: Evaluated the models using metrics such as Mean Absolute Error
 Deployment: Prepared the model for deployment in a real-world scenario, making it capable of handling new data for predictions.
 Technologies Used
 Programming Languages: Python
+
 Libraries:
 Data manipulation: Pandas, NumPy
 Data visualization: Matplotlib, Seaborn
 Machine learning: Scikit-learn, XGBoost, Random Forest
 Model evaluation: Scikit-learn
 Tools: Jupyter Notebook, Google Colab for development and testing
+
 Dataset
-Source: Historical travel data was collected Research Group (SMO Hof), including weather data, Road netwrok Data, Point of Interest Data.
+Source: Historical floating car data, cell phone data was collected from Research Group (SMO Hof), including weather data, Road netwrok Data, Point of Interest Data.
 Size: Approximately 200000, covering 1 year and upper franconia.
 Variables: Includes features such as date, time, location, weather conditions (temperature, precipitation), and special events.
