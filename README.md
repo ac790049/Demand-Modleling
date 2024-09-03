@@ -7,6 +7,7 @@ Objectives
 To develop a predictive model that can forecast travel demand.
 To analyze the impact of different variables such as time of day, weather conditions, and holidays on travel demand.
 To provide insights that can be used to improve route planning and reduce congestion.
+
 Features
 Predicts travel demand using machine learning algorithms.
 Provides insights into which factors most influence travel patterns.
@@ -18,10 +19,15 @@ The project involves the following steps:
 Data Collection: Gathered historical travel data, weather data, and other relevant datasets.
 Data Preprocessing: Cleaned and preprocessed the data to handle missing values, outliers, and inconsistencies.
 Feature Engineering: Created new features that could improve the predictive power of the model, such as combining weather data with temporal features (e.g., day of the week, hour of the day).
+
 Model Selection: Explored various machine learning models including Random Forest, Gradient Boosting, and other relevant algorithms.
+
 Model Training: Trained the selected models on the preprocessed dataset and fine-tuned them to achieve the best performance.
+
 Model Evaluation: Evaluated the models using metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and R² score to determine the best-performing model.
+
 Deployment: Prepared the model for deployment in a real-world scenario, making it capable of handling new data for predictions.
+
 Technologies Used
 Programming Languages: Python
 
